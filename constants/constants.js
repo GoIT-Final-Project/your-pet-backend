@@ -44,7 +44,7 @@ const serverMessage = {
 };
 
 const defaultAvatarUrl =
-  "https://res.cloudinary.com/de2bdafop/image/upload/v1690014491/default-avatar_zfllbo.png";
+  "https://res.cloudinary.com/dfkjjfmmp/image/upload/v1743082598/default-avatar.png";
 
 const schemaMessage = {
   auth: "Bad request! Missing required name field or wrong field name.",
